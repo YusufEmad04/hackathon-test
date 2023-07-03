@@ -67,6 +67,7 @@ st.markdown(
         f"""
         <style>
             [data-testid="stSidebarNav"] {{
+                background-image: url('https://placekitten.com/200/300');
                 background-repeat: no-repeat;
                 padding-top: 50px;
                 background-position: 50px 50px;
